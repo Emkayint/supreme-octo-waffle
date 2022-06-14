@@ -4,10 +4,10 @@ my_div = document.getElementById("demo")
 // my_div.addEventListener("click", changeName)
 
 function changeName(){
-  if (my_div.innerText !== "Peris is Amaizing")
-    my_div.innerText = "Peris is Amaizing"
+  if (my_div.innerText !== "A WHOLE NEW WORLD")
+    my_div.innerText = "A WHOLE NEW WORLD";
   else
-    my_div.innerText = "Peris is Beautiful"
+    my_div.innerText = "Life is Beautiful"
 }
 
 // console.log(my_div)
