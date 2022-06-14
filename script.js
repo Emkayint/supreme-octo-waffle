@@ -37,8 +37,8 @@ function checkout(...items){
   // items.forEach((item) => {
   //   total += item
   // })
-  console.log(total)
-  // return total
+  // console.log(total)
+  return total
 }
 
 checkout(salt, sugar, milk, bread);
